@@ -25,4 +25,5 @@ try:
     jsf.writelines (x (jsonvals))
 
 finally:
+    #close file
     jsf.close()
